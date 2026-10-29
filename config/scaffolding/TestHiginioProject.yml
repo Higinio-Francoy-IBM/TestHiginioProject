@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestHiginioProject
+  gitServerName: Higinio
+  gitUrl: https://github.com/Higinio-Francoy-IBM
+  gitUsername: Higinio-Francoy-IBM
+  gitBranch: main
